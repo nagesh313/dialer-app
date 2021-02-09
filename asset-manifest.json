@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/dialer-app/static/css/main.307918ab.chunk.css",
-    "main.js": "/dialer-app/static/js/main.02a46569.chunk.js",
-    "main.js.map": "/dialer-app/static/js/main.02a46569.chunk.js.map",
-    "runtime-main.js": "/dialer-app/static/js/runtime-main.c9446be9.js",
-    "runtime-main.js.map": "/dialer-app/static/js/runtime-main.c9446be9.js.map",
+    "main.js": "/dialer-app/static/js/main.e822ab60.chunk.js",
+    "main.js.map": "/dialer-app/static/js/main.e822ab60.chunk.js.map",
+    "runtime-main.js": "/dialer-app/static/js/runtime-main.c4bdb3e3.js",
+    "runtime-main.js.map": "/dialer-app/static/js/runtime-main.c4bdb3e3.js.map",
     "static/css/2.8692617a.chunk.css": "/dialer-app/static/css/2.8692617a.chunk.css",
-    "static/js/2.b28eb235.chunk.js": "/dialer-app/static/js/2.b28eb235.chunk.js",
-    "static/js/2.b28eb235.chunk.js.map": "/dialer-app/static/js/2.b28eb235.chunk.js.map",
-    "static/js/3.519ee5de.chunk.js": "/dialer-app/static/js/3.519ee5de.chunk.js",
-    "static/js/3.519ee5de.chunk.js.map": "/dialer-app/static/js/3.519ee5de.chunk.js.map",
+    "static/js/2.13991adb.chunk.js": "/dialer-app/static/js/2.13991adb.chunk.js",
+    "static/js/2.13991adb.chunk.js.map": "/dialer-app/static/js/2.13991adb.chunk.js.map",
+    "static/js/3.c24a4fc7.chunk.js": "/dialer-app/static/js/3.c24a4fc7.chunk.js",
+    "static/js/3.c24a4fc7.chunk.js.map": "/dialer-app/static/js/3.c24a4fc7.chunk.js.map",
     "index.html": "/dialer-app/index.html",
     "static/css/2.8692617a.chunk.css.map": "/dialer-app/static/css/2.8692617a.chunk.css.map",
     "static/css/main.307918ab.chunk.css.map": "/dialer-app/static/css/main.307918ab.chunk.css.map",
-    "static/js/2.b28eb235.chunk.js.LICENSE.txt": "/dialer-app/static/js/2.b28eb235.chunk.js.LICENSE.txt",
+    "static/js/2.13991adb.chunk.js.LICENSE.txt": "/dialer-app/static/js/2.13991adb.chunk.js.LICENSE.txt",
     "static/media/index.css": "/dialer-app/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9446be9.js",
+    "static/js/runtime-main.c4bdb3e3.js",
     "static/css/2.8692617a.chunk.css",
-    "static/js/2.b28eb235.chunk.js",
+    "static/js/2.13991adb.chunk.js",
     "static/css/main.307918ab.chunk.css",
-    "static/js/main.02a46569.chunk.js"
+    "static/js/main.e822ab60.chunk.js"
   ]
 }
