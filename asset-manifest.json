@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dialer-app/static/css/main.307918ab.chunk.css",
-    "main.js": "/dialer-app/static/js/main.0f4269c8.chunk.js",
-    "main.js.map": "/dialer-app/static/js/main.0f4269c8.chunk.js.map",
+    "main.js": "/dialer-app/static/js/main.0bdea2fb.chunk.js",
+    "main.js.map": "/dialer-app/static/js/main.0bdea2fb.chunk.js.map",
     "runtime-main.js": "/dialer-app/static/js/runtime-main.835be523.js",
     "runtime-main.js.map": "/dialer-app/static/js/runtime-main.835be523.js.map",
     "static/css/2.8692617a.chunk.css": "/dialer-app/static/css/2.8692617a.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.8692617a.chunk.css",
     "static/js/2.cfffc77b.chunk.js",
     "static/css/main.307918ab.chunk.css",
-    "static/js/main.0f4269c8.chunk.js"
+    "static/js/main.0bdea2fb.chunk.js"
   ]
 }
