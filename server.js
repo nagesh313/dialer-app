@@ -3,7 +3,7 @@ const favicon = require('express-favicon');
 const { createProxyMiddleware } = require('http-proxy-middleware');
 
 const path = require('path');
-const port = process.env.PORT || 8080;
+const port = process.env.PORT;
 const app = express();
 app.use(favicon(__dirname + '/build/favicon.ico'));
 app.use(express.static(__dirname));
