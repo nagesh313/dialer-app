@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "12.13"
+
+deploy:
+  provider: heroku
+  api-key:
+    secure: $HEROKU_API_KEY
+  app: dialer-app
